@@ -1,4 +1,4 @@
-# 🎓 Responisve Certificate Showcase
+# 🎓 Responsive Certificate Showcase
 
 A clean, responsive web page designed to display internship certificates and success stories using modern HTML, CSS, and JavaScript techniques. This project demonstrates front-end skills such as responsive layout, interactivity, and theme toggling.
 
