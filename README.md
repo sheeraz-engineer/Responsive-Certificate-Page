@@ -21,7 +21,7 @@ A clean, responsive web page designed to display internship certificates and suc
 
 - **HTML5**
 - **CSS** 
-- **JavaScript 
+- **JavaScript**
 - **Google Fonts** 
 
 ---
