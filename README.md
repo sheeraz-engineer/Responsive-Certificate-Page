@@ -1,8 +1,11 @@
-# 🎓 Certificate Showcase
+# 🎓 Responisve Certificate Showcase
 
 A clean, responsive web page designed to display internship certificates and success stories using modern HTML, CSS, and JavaScript techniques. This project demonstrates front-end skills such as responsive layout, interactivity, and theme toggling.
 
 ---
+## 🌐 Live Demo
+[View Live Site](https://sheeraz-engineer.github.io/Responsive-Certificate-Page/)
+
 
 ## 🔍 Features
 
@@ -16,21 +19,21 @@ A clean, responsive web page designed to display internship certificates and suc
 
 ## 💻 Tech Stack
 
-- **HTML5** – Semantic and accessible markup.
-- **CSS3** – Responsive grid layout, animations, and dark mode.
-- **JavaScript (Vanilla)** – Interactivity for modal, theme toggling, scroll events, and animations.
-- **Google Fonts** – Clean and modern typography using the Inter font.
+- **HTML5**
+- **CSS** 
+- **JavaScript 
+- **Google Fonts** 
 
 ---
 
 ## 📁 Folder Structure
 
 ```
-certificate-showcase/
+Responsive-Certificate-Page/
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
+
 ```
 
 ---
@@ -38,9 +41,6 @@ certificate-showcase/
 ## 🧪 How to Use
 
 1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/your-username/certificate-showcase.git
-   ```
 
 2. Open `index.html` in any modern browser.
 
@@ -48,43 +48,17 @@ certificate-showcase/
 
 4. Try scrolling and toggling dark mode to explore interactivity.
 
----
 
-## 📸 Preview
+## 📌 License
 
-![Screenshot of Certificate Showcase](preview.png)
+This project is open-source and available under the [MIT License](LICENSE).
 
----
 
-## 🧠 Learning Outcomes
-
-This project helped reinforce:
-
-- Responsive grid layout with CSS Grid
-- Theming with dark/light mode toggle
-- Creating modals with clean UX
-- Scroll-triggered animations using `IntersectionObserver`
-- Writing clean, maintainable front-end code
+## 👨‍💻 Author
+**Sheeraz Ahmed**  
+Frontend Web Developer  
+📫 [LinkedIn](https://www.linkedin.com/in/sheeraz-ahmed-28317436b/) | [GitHub](https://github.com/sheeraz-engineer)
 
 ---
 
-## 🙌 Credits
-
-- Certificate design from [FreeVector.com](https://www.freevector.com/)
-- Fonts from [Google Fonts](https://fonts.google.com/)
-- Built with ❤️ by [Your Name]
-
----
-
-## 📬 Contact
-
-If you have any questions or suggestions, feel free to reach out:
-
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
-
----
-
-## 🪪 License
-
-This project is open source and free to use for educational or personal portfolio purposes.
+⭐️ Don't forget to star this repo if you found it helpful!
